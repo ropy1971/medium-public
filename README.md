@@ -1,2 +1,18 @@
-# medium-public
-this repository is dedicated to store codes concerning articles published on Medium.
+
+# README.md
+
+## introduction
+
+## status
+
+[PUBLIC]
+
+## folders organization
+
+## comments
+
+## license
+
+Check the license file.
+
+## last update: 2021.06.22
